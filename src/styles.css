@@ -2,8 +2,11 @@
   font-family: sans-serif;
   text-align: center;
 }
-input
-{
+body {
+  background-color: #fcd34d;
+}
+input {
   padding: 1rem;
-  width:80%;
+
+  width: 80%;
 }
